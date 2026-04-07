@@ -9,10 +9,10 @@
 This repository contains my work for the [Zindi SME Financial Health Index Challenge](https://zindi.africa). The goal is to build a machine learning model that predicts a **Financial Health Index (FHI)** for SMEs — classifying businesses as having **Low**, **Medium**, or **High** financial health.
 
 The FHI is a composite measure built across four key dimensions:
-- 💰 Savings and assets
-- 📉 Debt and repayment ability
-- 🛡️ Resilience to shocks
-- 🏦 Access to credit and financial services
+-  Savings and assets
+-  Debt and repayment ability
+-  Resilience to shocks
+-  Access to credit and financial services
 
 The dataset covers SMEs from four Southern African countries: **Eswatini, Lesotho, Zimbabwe, and Malawi**, and includes socio-economic and business features such as traded commodities, export/import activity, firm size, demographics, and location.
 
